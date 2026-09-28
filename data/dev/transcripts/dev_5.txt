@@ -1,0 +1,40 @@
+Hugo: Alright everyone, sprint planning, let's move through the backlog.
+Marisol: I finished the client intake form redesign.
+Hugo: Nice, can you get that into staging?
+Marisol: Yeah, I'll push the intake form to staging by Thursday, May 8th.
+Hugo: Great, thank you.
+Quinn: I'm still working on the invoice export feature.
+Hugo: How far out is that?
+Quinn: I can finish the invoice export by May 12th.
+Hugo: Perfect, noted.
+Bianca: I wrapped up the vendor directory cleanup yesterday.
+Hugo: Oh nice, that was overdue. Good work.
+Bianca: Thanks, it was a mess in there.
+Hugo: Next up, we need someone to write the release notes for this sprint.
+Marisol: I can do that once the intake form is in staging.
+Hugo: Great, Marisol owns release notes too then.
+Marisol: I'll draft the release notes by May 9th.
+Hugo: Thanks. Quinn, any blockers on the invoice work?
+Quinn: Just need final sign-off from finance on the export format.
+Hugo: I'll get that sign-off from finance today.
+Quinn: Appreciate it.
+Bianca: Should we also revisit the onboarding checklist this sprint?
+Hugo: Good call, let's put that on the board.
+Bianca: I can take a first pass at it.
+Hugo: Great, when do you think you'll have a draft?
+Bianca: I'll have a first draft of the onboarding checklist by May 15th.
+Hugo: Perfect.
+Quinn: One more thing, the vendor directory cleanup, do we need a follow-up ticket for the duplicate entries?
+Bianca: Good point, yeah, I'll file a ticket for the duplicate vendor entries.
+Hugo: When can you get that filed?
+Bianca: I'll file it by end of day today.
+Hugo: Great, thanks Bianca.
+Marisol: Are we still meeting with the client Thursday?
+Hugo: Yes, same time as usual.
+Marisol: Cool, I'll have the intake form ready before that then.
+Hugo: Perfect.
+Quinn: Anything else before we wrap?
+Hugo: I don't think so. Good sprint so far, everyone.
+Bianca: Thanks, this was a good one.
+Marisol: Agreed, talk to everyone tomorrow.
+Hugo: Bye all.

@@ -1,0 +1,40 @@
+Theo: Hey all, let's run through ops items.
+Amara: Sure, starting with the warehouse audit?
+Theo: Yeah, we need to schedule the Q2 warehouse audit.
+Louis: I can coordinate that with the site managers.
+Theo: Great, when can you get that scheduled?
+Louis: I'll schedule the warehouse audit by June 25th.
+Theo: Perfect.
+Amara: I finished the route optimization changes, by the way.
+Theo: Nice, are those live?
+Amara: Yep, pushed them out this morning, already seeing better times.
+Theo: Great work.
+Louis: What about the driver onboarding revamp?
+Theo: Right, we still need to nail that down.
+Amara: I can take a first pass at the new onboarding flow.
+Theo: When do you think you'll have something?
+Amara: I'll have a draft onboarding flow by July 1st.
+Theo: Perfect, thank you.
+Theo: Actually, hold on, back to the warehouse audit.
+Louis: Yeah?
+Theo: I just talked to finance, they're pushing all Q2 audits to Q3 company-wide.
+Louis: Oh, okay.
+Theo: So actually, forget the audit for now, it's not happening this quarter.
+Louis: Got it, I'll hold off then.
+Theo: Yeah, don't spend any more time scheduling it.
+Amara: Makes sense, saves you some work at least.
+Louis: Ha, true. I'll redirect that time to the fleet maintenance log instead.
+Theo: Oh good idea, that's been neglected.
+Louis: I'll update the fleet maintenance log by June 28th.
+Theo: Great, thanks.
+Amara: Should we tell the site managers the audit's off?
+Theo: Yeah, good call.
+Theo: I'll notify the site managers that the audit's postponed.
+Louis: Thanks, saves me an awkward call.
+Theo: No problem.
+Amara: Anything else before we go?
+Louis: Not from me.
+Theo: Same. Good sync everyone.
+Amara: Thanks, bye.
+Louis: See you all later.
+Theo: Bye.

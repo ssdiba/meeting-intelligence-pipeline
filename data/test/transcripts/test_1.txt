@@ -1,0 +1,40 @@
+Otis: Morning, let's talk through the fraud alert rollout.
+Delia: Sure, where do we need to focus?
+Otis: The main thing is the alert threshold tuning, it's still too noisy.
+Kian: I can take the threshold tuning, I've been in that code most of the sprint.
+Otis: Great, Kian owns threshold tuning.
+Kian: I'll have new thresholds proposed by June 5th.
+Otis: Perfect.
+Vera: What about the customer notification copy? Is that still open?
+Otis: Yeah, someone needs to write that.
+Delia: I can write the notification copy.
+Otis: Great, thanks Delia.
+Delia: I'll draft the notification copy by June 3rd.
+Otis: Nice. Kian, how's the false-positive report coming?
+Kian: Oh, actually, I haven't started that one yet, I've been focused on tuning.
+Otis: Right, that's fine, let's keep it on you for now.
+Kian: Okay.
+Vera: Actually, I have some bandwidth this week, I could take the false-positive report instead.
+Otis: Oh, that'd help a lot actually, since Kian's already stretched.
+Kian: Yeah, honestly that'd be a relief.
+Otis: Okay, let's move the false-positive report to Vera then.
+Vera: Sounds good, I'll have the false-positive report done by June 7th.
+Otis: Great, thank you.
+Delia: Should we loop in the compliance team on the notification copy?
+Otis: Good idea, can you do that when you send the draft?
+Delia: Yeah, I'll include compliance when I circulate the draft.
+Otis: Perfect.
+Kian: One more thing, the old alert dashboard, is that getting deprecated?
+Otis: Eventually, but not this sprint.
+Kian: Got it.
+Vera: I already updated the alert documentation last week, by the way.
+Otis: Oh good, so that's done?
+Vera: Yep, fully updated, matches the new thresholds... well, the old ones for now.
+Otis: Makes sense, we'll refresh it again once Kian's new thresholds land.
+Kian: Sure, I can do that after the tuning work.
+Otis: We'll deal with that later, not urgent.
+Vera: Okay.
+Otis: Alright, I think that covers it.
+Delia: Sounds good, thanks everyone.
+Kian: Thanks, talk later.
+Otis: Bye all.

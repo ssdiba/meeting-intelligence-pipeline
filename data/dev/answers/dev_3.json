@@ -1,0 +1,6 @@
+[
+  {"task": "Test the password reset flow", "owner": "Nadia", "due_date": "soon, probably early next week"},
+  {"task": "Finish the billing sync", "owner": "Wesley", "due_date": "after we hear back from the vendor"},
+  {"task": "Get the launch banner live", "owner": "Declan", "due_date": "April 9th"},
+  {"task": "Update the FAQ page", "owner": "Nadia", "due_date": "sometime after the launch settles down"}
+]

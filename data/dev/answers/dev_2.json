@@ -1,0 +1,7 @@
+[
+  {"task": "Draft the Ashgrove compliance report", "owner": "Mateo", "due_date": "the 20th"},
+  {"task": "Proofread the compliance report", "owner": "Simone", "due_date": null},
+  {"task": "Chase legal for the updated risk matrix", "owner": "Renee", "due_date": "today"},
+  {"task": "Reach out to design for the cover page", "owner": "Mateo", "due_date": "this afternoon"},
+  {"task": "Send Ashgrove a status update before the report is due", "owner": "Renee", "due_date": null}
+]

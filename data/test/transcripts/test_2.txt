@@ -1,0 +1,40 @@
+Tobias: Morning, quick standup on the Meridian survey tool.
+Ingrid: I've got the survey builder UI mostly done.
+Tobias: Great, when's that landing?
+Ingrid: I'll have the survey builder UI ready by June 18th.
+Tobias: Perfect. Callum, how's the export pipeline?
+Callum: Good, just cleaning up edge cases.
+Tobias: When do you think that's solid?
+Callum: I'll finish the export pipeline by June 20th.
+Tobias: Great. Now, we still need someone on the accessibility audit.
+Ingrid: Dana's done accessibility work before, right?
+Tobias: Yeah, Dana's pretty solid on that.
+Callum: Dana could probably knock that out pretty quickly.
+Tobias: Yeah, let's see if Dana has bandwidth.
+Ingrid: I can ask them after this.
+Tobias: Okay, let's not assume yet though.
+Callum: Fair, we don't want to just dump it on them.
+Tobias: Right. Separately, the survey builder needs a security review too.
+Ingrid: I can flag that for the security team.
+Tobias: When can you get that flagged?
+Ingrid: I'll flag it for security review today.
+Tobias: Great, thanks.
+Callum: Do we know if Dana's even free this sprint?
+Tobias: Not sure, that's what Ingrid's checking.
+Ingrid: Right, I haven't heard back yet.
+Tobias: Okay, let's not block on the accessibility audit then, we'll pick it up once we know.
+Callum: Makes sense.
+Tobias: Anything else blocking either of you?
+Ingrid: Nope, all good.
+Callum: Same here.
+Tobias: Cool. Oh, one more thing, the survey builder demo for Meridian.
+Ingrid: That's next Monday, right?
+Tobias: Yeah, same as planned.
+Ingrid: I'll have my part ready before then.
+Tobias: Great.
+Callum: Should we prep a backup demo environment just in case?
+Tobias: Good idea. Can you set that up?
+Callum: Yeah, I'll set up a backup demo environment by Friday.
+Tobias: Perfect, thanks Callum.
+Tobias: Alright, that's everything for today.
+Ingrid: Sounds good, bye all.

@@ -1,0 +1,40 @@
+Yusuf: Morning team, let's go through the checkout revamp items.
+Harriet: Sure, I finished the new payment step UI.
+Yusuf: Great, can you get that into the staging environment?
+Harriet: Yeah, I'll push the payment step UI to staging by August 4th.
+Yusuf: Perfect. Oscar, how's the tax calculation fix?
+Oscar: Almost there, just validating edge cases with international orders.
+Yusuf: When do you think that'll be solid?
+Oscar: I'll finish the tax calculation fix by August 6th.
+Yusuf: Great, thank you.
+Harriet: We still need someone to update the checkout analytics events.
+Oscar: I can take that once the tax fix is in.
+Yusuf: Great, when do you think you'll have that done?
+Oscar: I'll update the analytics events by August 9th.
+Yusuf: Perfect.
+Harriet: Should we also review the abandoned cart email flow this sprint?
+Yusuf: Good idea, let's put that on the board.
+Harriet: I can take a first pass at it.
+Yusuf: When can you have something to look at?
+Harriet: I'll have a draft of the abandoned cart flow by August 12th.
+Yusuf: Great.
+Oscar: One more thing, the old discount code system, is that fully retired now?
+Harriet: Yeah, I decommissioned it last week, nothing left running there.
+Yusuf: Oh good, glad that's off our plate.
+Oscar: Same here.
+Yusuf: Any blockers for either of you?
+Harriet: Just waiting on final copy for the payment step from marketing.
+Yusuf: I'll follow up with marketing on that copy.
+Yusuf: I'll get the payment step copy from marketing by August 5th.
+Oscar: Thanks.
+Harriet: Are we still doing the design review Friday?
+Yusuf: Yes, same time as always.
+Harriet: Cool, I'll have the staging build ready before that.
+Yusuf: Perfect.
+Oscar: Should we loop in support on the analytics changes?
+Yusuf: Maybe, let's see if it affects their dashboards first.
+Harriet: Fair enough.
+Yusuf: Alright, I think that's everything for today.
+Oscar: Sounds good, thanks everyone.
+Harriet: Thanks, talk next week.
+Yusuf: Bye all.

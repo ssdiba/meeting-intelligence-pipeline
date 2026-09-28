@@ -1,0 +1,6 @@
+[
+  {"task": "Propose new alert thresholds", "owner": "Kian", "due_date": "June 5th"},
+  {"task": "Draft the customer notification copy", "owner": "Delia", "due_date": "June 3rd"},
+  {"task": "Include compliance when circulating the notification draft", "owner": "Delia", "due_date": null},
+  {"task": "Finish the false-positive report", "owner": "Vera", "due_date": "June 7th"}
+]

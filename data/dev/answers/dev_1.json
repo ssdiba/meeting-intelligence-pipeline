@@ -1,0 +1,5 @@
+[
+  {"task": "Prepare the Solstice Foods dashboard demo", "owner": "Felix", "due_date": "March 14th"},
+  {"task": "Finish the onboarding doc", "owner": "Owen", "due_date": "March 10th"},
+  {"task": "Follow up with marketing for the brand assets", "owner": "Talia", "due_date": null}
+]

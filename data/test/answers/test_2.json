@@ -1,0 +1,7 @@
+[
+  {"task": "Finish the survey builder UI", "owner": "Ingrid", "due_date": "June 18th"},
+  {"task": "Finish the export pipeline", "owner": "Callum", "due_date": "June 20th"},
+  {"task": "Do the accessibility audit on the survey builder", "owner": null, "due_date": null},
+  {"task": "Flag the survey builder for security review", "owner": "Ingrid", "due_date": "today"},
+  {"task": "Set up a backup demo environment", "owner": "Callum", "due_date": "Friday"}
+]

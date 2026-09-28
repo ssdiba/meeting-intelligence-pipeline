@@ -1,0 +1,6 @@
+[
+  {"task": "Finish the press kit", "owner": "Rosalind", "due_date": "July 10th"},
+  {"task": "Reach out to the author's agent to schedule the interview", "owner": "Rosalind", "due_date": "tomorrow"},
+  {"task": "Send caterer options for the launch event", "owner": "Mikael", "due_date": "July 8th"},
+  {"task": "Confirm the print run quantity with the printer", "owner": "Mikael", "due_date": null}
+]

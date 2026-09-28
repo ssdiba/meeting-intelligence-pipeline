@@ -1,0 +1,7 @@
+[
+  {"task": "Push the payment step UI to staging", "owner": "Harriet", "due_date": "August 4th"},
+  {"task": "Finish the tax calculation fix", "owner": "Oscar", "due_date": "August 6th"},
+  {"task": "Update the checkout analytics events", "owner": "Oscar", "due_date": "August 9th"},
+  {"task": "Draft the abandoned cart email flow", "owner": "Harriet", "due_date": "August 12th"},
+  {"task": "Get the payment step copy from marketing", "owner": "Yusuf", "due_date": "August 5th"}
+]

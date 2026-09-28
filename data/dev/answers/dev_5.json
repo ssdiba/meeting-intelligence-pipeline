@@ -1,0 +1,8 @@
+[
+  {"task": "Push the client intake form to staging", "owner": "Marisol", "due_date": "Thursday, May 8th"},
+  {"task": "Finish the invoice export feature", "owner": "Quinn", "due_date": "May 12th"},
+  {"task": "Draft the release notes for this sprint", "owner": "Marisol", "due_date": "May 9th"},
+  {"task": "Get sign-off from finance on the export format", "owner": "Hugo", "due_date": "today"},
+  {"task": "Draft the onboarding checklist", "owner": "Bianca", "due_date": "May 15th"},
+  {"task": "File a ticket for the duplicate vendor entries", "owner": "Bianca", "due_date": "end of day today"}
+]

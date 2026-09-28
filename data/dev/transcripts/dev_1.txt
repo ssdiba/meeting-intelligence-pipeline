@@ -1,0 +1,40 @@
+Talia: Morning everyone, let's get through this quickly, I've got a client call at ten.
+Owen: Sounds good, I'll keep my updates short.
+Talia: First thing, the Solstice Foods dashboard demo. We need someone to pull it together before their review.
+Owen: I can take that one, I already have most of the queries from last sprint.
+Felix: Actually I was going to offer too, I built the original mockup so it'd be quick for me.
+Talia: Oh, nice, we don't need both of you on it though.
+Owen: Yeah, totally, Felix probably has more context on the visuals anyway.
+Talia: Let's go with Felix then, since he's got the mockup already.
+Felix: Works for me, I'll have the demo ready by March 14th.
+Talia: Perfect, Felix owns the dashboard demo, due March 14th.
+Owen: I'll shift my time to the onboarding doc instead.
+Talia: Speaking of which, how's that coming?
+Owen: Almost done, just need to add screenshots.
+Talia: Okay, when do you think you'll wrap it up?
+Owen: I can finish the onboarding doc by March 10th.
+Talia: Great, put that down for you.
+Grace: Can I jump in with the billing issue?
+Talia: Please, go ahead.
+Grace: So a few customers got double-charged last week because of the migration.
+Talia: Ugh, that's not great. Who's looking into it?
+Grace: I already patched the script last night, it shouldn't happen again.
+Talia: Oh good, so that's actually resolved?
+Grace: Yeah, fully resolved, I tested it against yesterday's batch.
+Talia: Nice work. Do we need to refund anyone?
+Grace: I think finance is handling refunds separately.
+Talia: Okay, not our problem then. Anything else on billing?
+Grace: Nope, that's it from me.
+Talia: Alright. Felix, anything blocking you on the demo?
+Felix: Not really, just need the latest brand assets from marketing.
+Talia: I'll ping marketing after this and get those sent over.
+Talia: I'll follow up with marketing for the brand assets after this call.
+Felix: Appreciate it.
+Owen: One more thing, should we loop in Grace on the demo review too?
+Talia: Maybe, let's see how it looks first.
+Grace: Happy to take a look whenever it's ready.
+Talia: Cool, we'll figure that out later.
+Talia: Alright, I think that covers everything for today.
+Owen: Sounds good, thanks everyone.
+Felix: See you all next week.
+Talia: Thanks all, talk soon.

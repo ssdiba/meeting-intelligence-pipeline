@@ -1,0 +1,40 @@
+Declan: Alright team, portal launch check-in.
+Nadia: We're close, just a couple loose ends.
+Declan: What's left on your side?
+Nadia: The password reset flow still needs testing.
+Declan: Can you get to that soon?
+Nadia: Yeah, I'll test the password reset flow soon, probably early next week.
+Declan: Okay, no exact day, just soon-ish, got it.
+Wesley: I still need to finish the billing sync.
+Declan: When do you think that'll be done?
+Wesley: Honestly, not sure yet, depends on how the vendor API behaves.
+Wesley: I'll finish the billing sync after we hear back from the vendor.
+Declan: Alright, no firm date there either.
+Nadia: What about the marketing banner for launch day?
+Declan: That one actually has a hard date, it needs to go live by April 9th.
+Wesley: Who's on that?
+Declan: I'll handle the banner myself, I've got the assets already.
+Declan: I'll get the launch banner live by April 9th.
+Nadia: Nice, that one's locked in at least.
+Wesley: Should we also update the FAQ page?
+Declan: Yeah, that needs to happen too, just not urgent.
+Nadia: I can take the FAQ update.
+Declan: When works for you?
+Nadia: Whenever, no rush, I'll just get to it sometime after the launch settles down.
+Declan: Okay, sometime after launch, noted.
+Wesley: Are we still doing the post-launch retro?
+Declan: Yeah, we'll schedule that once things calm down.
+Nadia: Makes sense.
+Declan: Anything blocking anyone right now?
+Wesley: Just waiting on that vendor response I mentioned.
+Declan: Okay, keep me posted.
+Wesley: Will do.
+Nadia: I already pushed the password reset copy changes yesterday, by the way.
+Declan: Oh nice, so that part's done?
+Nadia: Yep, just the testing left, like I said.
+Declan: Got it, good progress.
+Wesley: One more thing, the old billing sync script, should we just kill it?
+Declan: Not yet, let's keep it running in parallel for now.
+Nadia: Agreed, safer that way.
+Declan: Alright, that's everything. Thanks all.
+Wesley: Thanks, talk soon.

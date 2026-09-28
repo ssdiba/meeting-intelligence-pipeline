@@ -1,0 +1,40 @@
+Renee: Hey, quick one today, just the Ashgrove compliance report.
+Mateo: Yeah, I've been heads down on it all week.
+Renee: How's it looking?
+Mateo: Good, I think I can get the draft to you by the 22nd.
+Renee: The 22nd, got it.
+Simone: Wait, isn't Ashgrove's audit window closing earlier than that?
+Mateo: Hmm, let me check... actually yeah, it's the 18th, not the 22nd.
+Renee: Oh no, okay. Can you still make the 18th?
+Mateo: It'll be tight, but yeah, I can get the draft over by the 18th.
+Renee: Let's lock that in, the 18th then.
+Simone: I can help proofread once it's out.
+Renee: That'd be great, thanks Simone.
+Simone: Happy to, just send it my way when it's ready.
+Renee: Will do. Anything else blocking you, Mateo?
+Mateo: Just waiting on the updated risk matrix from legal.
+Renee: I'll chase legal for that today.
+Mateo: Appreciate it.
+Renee: Anything else before we wrap?
+Simone: Just a heads up, the vendor contract renewal is coming up next month.
+Renee: Okay, we'll deal with that separately, not today's problem.
+Mateo: Fair enough.
+Renee: Alright, one more thing actually, I realized I gave you the wrong context earlier.
+Mateo: About the report?
+Renee: Yeah, I just heard back from Ashgrove, they pushed their window again.
+Mateo: Oh, to when?
+Renee: The 20th now, apparently the 18th didn't account for a holiday.
+Mateo: Okay, the 20th works better for me honestly.
+Renee: Great, let's finalize on the 20th then.
+Simone: Got it, I'll plan to proofread around then.
+Renee: Perfect.
+Mateo: I'll also need to loop in design for the cover page.
+Renee: Good call, can you handle that?
+Mateo: Yeah, I'll reach out to design this afternoon.
+Renee: Great, thanks.
+Simone: Should we send Ashgrove a status update before the deadline?
+Renee: Good idea, I can do that.
+Renee: I'll send Ashgrove a status update before the report is due.
+Mateo: Sounds good.
+Renee: Alright, that's everything. Talk soon.
+Simone: Bye everyone.

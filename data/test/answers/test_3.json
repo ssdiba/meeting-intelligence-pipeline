@@ -1,0 +1,5 @@
+[
+  {"task": "Draft the new driver onboarding flow", "owner": "Amara", "due_date": "July 1st"},
+  {"task": "Update the fleet maintenance log", "owner": "Louis", "due_date": "June 28th"},
+  {"task": "Notify the site managers that the warehouse audit is postponed", "owner": "Theo", "due_date": null}
+]

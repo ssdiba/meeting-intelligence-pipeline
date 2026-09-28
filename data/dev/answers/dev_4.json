@@ -1,0 +1,5 @@
+[
+  {"task": "Send Halden the updated SOW", "owner": "Colin", "due_date": "Wednesday"},
+  {"task": "Draft the updated Halden contract", "owner": "Ezra", "due_date": "today"},
+  {"task": "Share the new Halden contact's info with the team", "owner": "Ezra", "due_date": "after the call"}
+]
