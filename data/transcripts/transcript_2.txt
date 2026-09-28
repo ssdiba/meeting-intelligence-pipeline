@@ -1,0 +1,37 @@
+Sam: Hey everyone, thanks for hopping on, I know it's late.
+Jordan: No worries, let's make this quick.
+Sam: So the big thing is the launch is slipping a bit.
+Riley: Yeah, we kind of figured. What's the holdup?
+Sam: Mostly the payment integration, it's messier than we thought.
+Jordan: Someone probably needs to just sit down with the Stripe docs for a full day.
+Riley: I could maybe do that, but not this week, I'm swamped.
+Sam: Okay, let's leave that one open for now and figure it out later.
+Jordan: Fair. What about the marketing site copy?
+Riley: I think that's basically done, just needs a proofread.
+Sam: Who's proofreading it?
+Riley: I can take a pass at it.
+Sam: Cool, no rush on that one, whenever you get to it.
+Jordan: We should also think about the launch email list.
+Sam: Right, we need to clean up the list before we send anything.
+Riley: That's a good chunk of work honestly.
+Jordan: I can do the cleanup, I did it last time.
+Sam: Great, Jordan's on the email list cleanup. Any date in mind?
+Jordan: Let's say before we send, obviously, but no hard date yet.
+Sam: Fine, we'll leave it loose for now.
+Riley: What about the pricing page redesign?
+Sam: Oh, that one actually has a deadline, it needs to be live by November 15th.
+Jordan: Who's doing that though?
+Sam: Good question. Nobody's grabbed it yet.
+Riley: I'm slammed with the proofreading and can't take it.
+Sam: Let's punt on assigning that and revisit next week.
+Jordan: Sounds fine.
+Sam: Last thing, the investor update doc.
+Riley: I can draft that.
+Sam: When do you think you'll have it done?
+Riley: Maybe by the 20th? Not totally sure yet.
+Sam: Okay, tentatively the 20th then.
+Jordan: This meeting felt very loose today.
+Sam: Yeah, lots of moving pieces still. Let's regroup Thursday.
+Riley: Works for me.
+Jordan: Same here, talk then.
+Sam: Thanks everyone, catch you Thursday.

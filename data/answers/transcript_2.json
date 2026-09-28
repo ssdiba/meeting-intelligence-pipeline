@@ -1,0 +1,7 @@
+[
+  {"task": "Work through the Stripe docs for the payment integration", "owner": null, "due_date": null},
+  {"task": "Proofread the marketing site copy", "owner": "Riley", "due_date": null},
+  {"task": "Clean up the launch email list", "owner": "Jordan", "due_date": null},
+  {"task": "Redesign the pricing page and make it live", "owner": null, "due_date": "November 15"},
+  {"task": "Draft the investor update doc", "owner": "Riley", "due_date": "the 20th"}
+]

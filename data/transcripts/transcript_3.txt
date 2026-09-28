@@ -1,0 +1,37 @@
+Anita: Alright, quick check-in on the Northwind account.
+Basil: So, the client's been quiet since the last invoice dispute.
+Anita: Right, that's concerning. It's been almost two weeks.
+Carmen: Yeah, I saw the last email thread. Nobody replied to their last message either.
+Basil: Honestly, someone should follow up with the client before this gets worse.
+Anita: Agreed, that can't just sit there.
+Carmen: For sure, it's a pretty important account.
+Basil: I keep meaning to, but I've been buried in the Fenwick renewal.
+Anita: I hear you, I've got the same problem with the quarterly reporting.
+Carmen: I'd do it but I don't actually have the context on the invoice dispute.
+Anita: That's fair, you weren't on the original thread.
+Basil: Maybe we loop in someone from finance since it's about an invoice?
+Carmen: Could work, but finance is slow to respond usually.
+Anita: True. Let's keep talking through the rest of the agenda and come back to this.
+Basil: Sure, next item is the Fenwick renewal.
+Anita: Basil, how's that looking?
+Basil: On track, I'm meeting with them next Tuesday.
+Anita: Good. Carmen, what about the quarterly reporting numbers?
+Carmen: Almost done, just waiting on finance for the last figures.
+Anita: Okay, keep me posted on that.
+Carmen: Will do.
+Anita: Let's circle back to Northwind for a second.
+Basil: Yeah, we really shouldn't let that drag on much longer.
+Carmen: Agreed, it reflects badly on us.
+Anita: Someone should really just reach out, even a short check-in email would help.
+Basil: Totally, it doesn't need to be complicated.
+Carmen: Right, just acknowledging the dispute would go a long way.
+Anita: Okay, well, let's make sure it happens soon.
+Basil: For sure.
+Carmen: Definitely, don't want to lose the account over silence.
+Anita: Alright, let's move on to the last item, the team offsite planning.
+Basil: I think that's still pretty early stage.
+Carmen: Yeah, no real updates there yet.
+Anita: Okay, we'll pick that up next time.
+Basil: Sounds good.
+Carmen: Same here.
+Anita: Thanks everyone, that's all for today.

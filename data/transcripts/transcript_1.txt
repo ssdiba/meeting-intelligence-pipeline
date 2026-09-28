@@ -1,0 +1,34 @@
+Priya: Okay, let's start. This is the weekly sync for the onboarding revamp.
+Marcus: Sounds good. I finished the wireframes for the new signup flow.
+Priya: Great, can you send those over today?
+Marcus: Yes, I'll email them to the team by end of day.
+Priya: Perfect. Let's make that official. Marcus, share the wireframes by end of day Friday, October 3rd.
+Marcus: Got it, I'll have them out by then.
+Priya: Next up, the backend work for email verification.
+Lena: I've been blocked on that because we don't have the SendGrid API key yet.
+Priya: Who can get that sorted?
+Lena: I can request it from IT.
+Priya: Okay, Lena, please request the SendGrid API key from IT by Monday, October 6th.
+Lena: Will do.
+Priya: And once you have it, how long to implement verification?
+Lena: Probably three days after I get the key.
+Priya: Let's say Lena finishes email verification implementation by Friday, October 10th.
+Lena: Sounds reasonable.
+Priya: Now, the analytics dashboard. Devon, where are we on that?
+Devon: I have the queries written, just need to wire them into the frontend.
+Priya: Devon, please finish wiring the analytics dashboard by Wednesday, October 8th.
+Devon: Yep, I can do that.
+Priya: Last item, we need updated copy for the welcome email.
+Marcus: I can draft that too, since I'm already in the onboarding flow.
+Priya: Marcus, draft the welcome email copy by Tuesday, October 7th.
+Marcus: Noted.
+Priya: Anything else before we wrap up?
+Lena: Just a reminder that the design review is Thursday.
+Priya: Right, thanks Lena. Devon, can you send the calendar invite for that?
+Devon: Sure, Devon will send the design review invite by tomorrow, October 1st.
+Priya: Great. Let's also confirm: I will compile all these updates into the project tracker.
+Priya: I'll update the project tracker by end of day today, September 30th.
+Marcus: Sounds like a solid plan.
+Lena: Agreed, this was a productive one.
+Devon: Talk to everyone next week.
+Priya: Thanks all, meeting adjourned.

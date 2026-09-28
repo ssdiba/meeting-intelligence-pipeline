@@ -1,0 +1,9 @@
+[
+  {"task": "Share the wireframes for the new signup flow", "owner": "Marcus", "due_date": "October 3"},
+  {"task": "Request the SendGrid API key from IT", "owner": "Lena", "due_date": "October 6"},
+  {"task": "Finish email verification implementation", "owner": "Lena", "due_date": "October 10"},
+  {"task": "Finish wiring the analytics dashboard", "owner": "Devon", "due_date": "October 8"},
+  {"task": "Draft the welcome email copy", "owner": "Marcus", "due_date": "October 7"},
+  {"task": "Send the design review calendar invite", "owner": "Devon", "due_date": "October 1"},
+  {"task": "Update the project tracker", "owner": "Priya", "due_date": "September 30"}
+]
