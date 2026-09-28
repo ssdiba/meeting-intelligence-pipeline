@@ -1,0 +1,34 @@
+{
+  "action_items": [
+    {
+      "task": "Sit down with the Stripe docs for a full day",
+      "owner": null,
+      "due_date": null,
+      "confidence": 0.94
+    },
+    {
+      "task": "Proofread the marketing site copy",
+      "owner": "Riley",
+      "due_date": null,
+      "confidence": 0.96
+    },
+    {
+      "task": "Clean up the launch email list",
+      "owner": "Jordan",
+      "due_date": null,
+      "confidence": 0.96
+    },
+    {
+      "task": "Complete the pricing page redesign",
+      "owner": null,
+      "due_date": "November 15th",
+      "confidence": 0.95
+    },
+    {
+      "task": "Draft the investor update document",
+      "owner": "Riley",
+      "due_date": "the 20th",
+      "confidence": 0.95
+    }
+  ]
+}

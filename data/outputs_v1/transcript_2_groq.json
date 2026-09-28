@@ -1,0 +1,22 @@
+{
+  "action_items": [
+    {
+      "task": "Proofread the marketing site copy",
+      "owner": "Riley",
+      "due_date": null,
+      "confidence": 0.96
+    },
+    {
+      "task": "Clean up the launch email list",
+      "owner": "Jordan",
+      "due_date": null,
+      "confidence": 0.97
+    },
+    {
+      "task": "Draft the investor update document",
+      "owner": "Riley",
+      "due_date": "the 20th",
+      "confidence": 0.95
+    }
+  ]
+}

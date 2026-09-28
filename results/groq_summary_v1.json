@@ -1,0 +1,174 @@
+{
+  "provider": "groq",
+  "transcripts": {
+    "transcript_1": {
+      "expected": 7,
+      "found": 7,
+      "missed": 0,
+      "extra": 0,
+      "wrong_owners": 0,
+      "invented_owners": 0,
+      "wrong_due_dates": 0,
+      "invented_dates": 0,
+      "matches": [
+        {
+          "predicted_task": "Request the SendGrid API key from IT",
+          "key_task": "Request the SendGrid API key from IT",
+          "score": 1.0,
+          "predicted_owner": "Lena",
+          "key_owner": "Lena",
+          "owner_correct": true,
+          "predicted_due_date": "Monday, October 6th",
+          "key_due_date": "October 6",
+          "due_date_correct": true
+        },
+        {
+          "predicted_task": "Finish email verification implementation",
+          "key_task": "Finish email verification implementation",
+          "score": 1.0,
+          "predicted_owner": "Lena",
+          "key_owner": "Lena",
+          "owner_correct": true,
+          "predicted_due_date": "Friday, October 10th",
+          "key_due_date": "October 10",
+          "due_date_correct": true
+        },
+        {
+          "predicted_task": "Finish wiring the analytics dashboard",
+          "key_task": "Finish wiring the analytics dashboard",
+          "score": 1.0,
+          "predicted_owner": "Devon",
+          "key_owner": "Devon",
+          "owner_correct": true,
+          "predicted_due_date": "Wednesday, October 8th",
+          "key_due_date": "October 8",
+          "due_date_correct": true
+        },
+        {
+          "predicted_task": "Draft the welcome email copy",
+          "key_task": "Draft the welcome email copy",
+          "score": 1.0,
+          "predicted_owner": "Marcus",
+          "key_owner": "Marcus",
+          "owner_correct": true,
+          "predicted_due_date": "Tuesday, October 7th",
+          "key_due_date": "October 7",
+          "due_date_correct": true
+        },
+        {
+          "predicted_task": "Send the design review calendar invite",
+          "key_task": "Send the design review calendar invite",
+          "score": 1.0,
+          "predicted_owner": "Devon",
+          "key_owner": "Devon",
+          "owner_correct": true,
+          "predicted_due_date": "tomorrow, October 1st",
+          "key_due_date": "October 1",
+          "due_date_correct": true
+        },
+        {
+          "predicted_task": "Update the project tracker with all updates",
+          "key_task": "Update the project tracker",
+          "score": 0.754,
+          "predicted_owner": "Priya",
+          "key_owner": "Priya",
+          "owner_correct": true,
+          "predicted_due_date": "end of day today, September 30th",
+          "key_due_date": "September 30",
+          "due_date_correct": true
+        },
+        {
+          "predicted_task": "Share the wireframes",
+          "key_task": "Share the wireframes for the new signup flow",
+          "score": 0.625,
+          "predicted_owner": "Marcus",
+          "key_owner": "Marcus",
+          "owner_correct": true,
+          "predicted_due_date": "Friday, October 3rd",
+          "key_due_date": "October 3",
+          "due_date_correct": true
+        }
+      ],
+      "missed_items": [],
+      "extra_items": []
+    },
+    "transcript_2": {
+      "expected": 5,
+      "found": 3,
+      "missed": 2,
+      "extra": 0,
+      "wrong_owners": 0,
+      "invented_owners": 0,
+      "wrong_due_dates": 0,
+      "invented_dates": 0,
+      "matches": [
+        {
+          "predicted_task": "Proofread the marketing site copy",
+          "key_task": "Proofread the marketing site copy",
+          "score": 1.0,
+          "predicted_owner": "Riley",
+          "key_owner": "Riley",
+          "owner_correct": true,
+          "predicted_due_date": null,
+          "key_due_date": null,
+          "due_date_correct": true
+        },
+        {
+          "predicted_task": "Clean up the launch email list",
+          "key_task": "Clean up the launch email list",
+          "score": 1.0,
+          "predicted_owner": "Jordan",
+          "key_owner": "Jordan",
+          "owner_correct": true,
+          "predicted_due_date": null,
+          "key_due_date": null,
+          "due_date_correct": true
+        },
+        {
+          "predicted_task": "Draft the investor update document",
+          "key_task": "Draft the investor update doc",
+          "score": 0.921,
+          "predicted_owner": "Riley",
+          "key_owner": "Riley",
+          "owner_correct": true,
+          "predicted_due_date": "the 20th",
+          "key_due_date": "the 20th",
+          "due_date_correct": true
+        }
+      ],
+      "missed_items": [
+        "Work through the Stripe docs for the payment integration",
+        "Redesign the pricing page and make it live"
+      ],
+      "extra_items": []
+    },
+    "transcript_3": {
+      "expected": 1,
+      "found": 0,
+      "missed": 1,
+      "extra": 1,
+      "wrong_owners": 0,
+      "invented_owners": 0,
+      "wrong_due_dates": 0,
+      "invented_dates": 0,
+      "matches": [],
+      "missed_items": [
+        "Follow up with Northwind about the invoice dispute"
+      ],
+      "extra_items": [
+        "Keep Anita posted on the quarterly reporting numbers"
+      ]
+    }
+  },
+  "total": {
+    "expected": 13,
+    "found": 10,
+    "missed": 3,
+    "extra": 1,
+    "wrong_owners": 0,
+    "invented_owners": 0,
+    "wrong_due_dates": 0,
+    "invented_dates": 0
+  },
+  "skipped": []
+}

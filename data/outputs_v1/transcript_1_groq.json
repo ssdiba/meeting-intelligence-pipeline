@@ -1,0 +1,46 @@
+{
+  "action_items": [
+    {
+      "task": "Share the wireframes",
+      "owner": "Marcus",
+      "due_date": "Friday, October 3rd",
+      "confidence": 1.0
+    },
+    {
+      "task": "Request the SendGrid API key from IT",
+      "owner": "Lena",
+      "due_date": "Monday, October 6th",
+      "confidence": 1.0
+    },
+    {
+      "task": "Finish email verification implementation",
+      "owner": "Lena",
+      "due_date": "Friday, October 10th",
+      "confidence": 1.0
+    },
+    {
+      "task": "Finish wiring the analytics dashboard",
+      "owner": "Devon",
+      "due_date": "Wednesday, October 8th",
+      "confidence": 1.0
+    },
+    {
+      "task": "Draft the welcome email copy",
+      "owner": "Marcus",
+      "due_date": "Tuesday, October 7th",
+      "confidence": 1.0
+    },
+    {
+      "task": "Send the design review calendar invite",
+      "owner": "Devon",
+      "due_date": "tomorrow, October 1st",
+      "confidence": 1.0
+    },
+    {
+      "task": "Update the project tracker with all updates",
+      "owner": "Priya",
+      "due_date": "end of day today, September 30th",
+      "confidence": 1.0
+    }
+  ]
+}

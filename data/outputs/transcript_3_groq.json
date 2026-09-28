@@ -1,0 +1,10 @@
+{
+  "action_items": [
+    {
+      "task": "Follow up with the Northwind client regarding the invoice dispute",
+      "owner": null,
+      "due_date": null,
+      "confidence": 0.95
+    }
+  ]
+}
